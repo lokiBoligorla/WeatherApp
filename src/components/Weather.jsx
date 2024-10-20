@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import './Weather.css'
 import  Search_Icon from'../assets/Search_Icon.png'
-import weather from '../assets/Weather.png'
+
 import wind from '../assets/wind.png'
 import humidity from '../assets/humidity.png'
 import clear_sun from '../assets/Clear_sun.png'
